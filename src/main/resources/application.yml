@@ -1,6 +1,6 @@
 spring:
   application:
-    name: democrud # Nome da aplicação, usado para identificação em logs e monitoramento.
+    name: demo # Nome da aplicação, usado para identificação em logs e monitoramento.
   sql:
     init:
       mode: always # Garante que o banco de dados seja inicializado automaticamente ao iniciar a aplicação.

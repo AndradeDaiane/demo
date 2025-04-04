@@ -1,3 +1,4 @@
+// Pacote onde esta classe está localizada.
 package com.example.demo.repository;
 
 // Importação da interface JpaRepository, que fornece métodos prontos para operações com o banco de dados.
